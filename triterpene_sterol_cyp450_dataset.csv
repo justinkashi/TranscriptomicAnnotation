@@ -1,0 +1,213 @@
+﻿Name,Species,Reaction,Substrate,Scaffold,Accession,ID of BLASTP Hit in T.chantrieri,Sequence Similarity %
+CYP71D443,Ajuga reptans,"C22
+hydroxylation","3β-hydroxy-5β-
+cholestan-6-one",Steroid,LC066937,TRINITY_DN420_c1_g1_i1.p1,46.9
+CYP716A110,Aquilegia coerulea,C28 oxidation,oleanolic acid,Pentacyclic oleanane,KU878864.1,TRINITY_DN8785_c0_g2_i1.p1,36.6
+CYP716A113v1,Aquilegia coerulea ,Unknown regioselectivity,cycloartenol,Tetracyclic triterpenoid,KU878866.1,TRINITY_DN8785_c0_g2_i1.p1,36.2
+CYP716A111,Aquilegia coerulea,C16-b hydroxylation,16b-hydroxy-b-amyrin,Pentacyclic oleanane,KY047600.1,TRINITY_DN8785_c0_g2_i1.p1,34.5
+CYP90A1,Arabidopsis thaliana,C3 oxidation,"6-deoxocat-
+hasterone /
+6-deoxoteaster-
+one /
+22S-hydroxy-
+campesterol /
+22R,23R-di-
+hydroxycam-
+pestero",Steroid,X87367.1,TRINITY_DN2607_c0_g2_i2.p2,40.9
+CYP85A1,Arabidopsis thaliana,C6 oxidation,"6-deoxoteaster-
+one / 3-dehydro-
+6-deoxoteaster-
+one / 6-deoxo-
+typhasterol /
+6-deoxo-
+castasterone",Steroid,AB035868.1,TRINITY_DN6792_c0_g1_i13.p1,71.5
+CYP51G1,Arabidopsis thaliana,C14-a demethylation,obtusifoliol,Steroid,AB014459.1,TRINITY_DN3131_c0_g1_i2.p1,79.1
+CYP85A2,Arabidopsis thaliana,"6-deoxoteaster-
+one / 3-dehydro-
+6-deoxoteaster-
+one / 6-deoxo-
+typhasterol /
+6-deoxo-
+castasterone",C6 oxidation,Steroid,AB087801.1,TRINITY_DN6792_c0_g1_i13.p1,63.7
+CYP710A1,Arabidopsis thaliana,C22 desaturation,b-sitosterol,Steroid,AB219423.1,TRINITY_DN44975_c0_g1_i1.p1,65.3
+CYP710A2,Arabidopsis thaliana,C22 desaturation,b-sitosterol,Steroid,AB233425.1,TRINITY_DN44975_c0_g1_i1.p1,62.1
+CYP710A4,Arabidopsis thaliana,C22 desaturation,b-sitosterol,Steroid,NM_128444.2,TRINITY_DN44975_c0_g1_i1.p1,58.6
+CYP90D1,Arabidopsis thaliana,C23 hydroxylation,"22S-hydroxy-
+24R-5α-ergost-
+an-3-one /
+3-epi-6-
+deoxocat-
+hasterone",Steroid,NM_112223.3,TRINITY_DN4982_c0_g3_i1.p1,34.7
+CYP90B1,Arabidopsis thaliana,C22 hydroxylation,"campesterol /
+24R-ergost-4-
+en-3-one /
+24R-5α-ergos-
+tan-3-one /
+campestanol /
+6-oxocampes-
+tano",Steroid,NM_114926.4,TRINITY_DN2607_c0_g2_i2.p2,66.9
+CYP705A1,Arabidopsis thaliana,C14-C16 cleavage,Arabidiol,Tricyclic triterpenoid,NM_001341032.1,TRINITY_DN145_c0_g3_i1.p1,36.1
+CYP90C1,Arabidopsis thaliana,C23 hydroxylation,"22S-hydroxy-
+24R-5α-ergost-
+an-3-one /
+3-epi-6-
+deoxocat-
+hasterone",Steroid,NM_001342408.1,TRINITY_DN709_c2_g1_i2.p1,47.1
+CYP724A1,Arabidopsis thaliana,C22 hydroxylation,possibly brassinosteroids,Steroid,NM_001343334.1,TRINITY_DN2607_c0_g2_i2.p2,38.9
+CYP716A1,Arabidopsis thaliana,C28 oxidation,a-amyrin/b-amyrin/lupeol,Pentacyclic ursane/oleanane/lupane,NM_123002.2,TRINITY_DN8785_c0_g2_i1.p1,37.9
+CYP71A16,Arabidopsis thaliana,C23 hydroxylation,marneral/marnerol,Monocyclic triterpene aldehyde,NM_123623.5,TRINITY_DN5156_c0_g1_i1.p1,42.2
+CYP705A5,Arabidopsis thaliana,C15-C16 desaturation,7b-hydroxy-thalianol,Tricyclic triterpenoid,NM_124173.3,TRINITY_DN145_c0_g3_i1.p1,38.8
+CYP708A2,Arabidopsis thaliana,C7-b-hydroxylation,thalianol,Tricyclic triterpenoid,NM_001344756.1,TRINITY_DN2607_c0_g2_i2.p2,31.6
+CYP716A2,Arabidopsis thaliana,C16/C22a/C28 hydroxylation,a-amyrin/b-amyrin/lupeol,Pentacyclic ursane/oleanane/lupane,LC106013.1,TRINITY_DN8785_c0_g2_i1.p1,36.3
+CYP93E4,Arachis hypogaea,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,KF906535.1,TRINITY_DN145_c0_g3_i1.p1,43
+CYP716A14v2,Artemisia annua,C3 oxidation,a-amyrin/b-amyrin,Pentacyclic ursane/oleanane,KF309251.1,TRINITY_DN8785_c0_g2_i1.p1,33.4
+CYP51H10,Avena strigosa,C12-C13b epoxidation/C16b hydroxylation,b-amyrin,Pentacyclic oleanane,DQ680852.1,TRINITY_DN3131_c0_g1_i2.p1,48.8
+CYP716A81,Barbarea vulgaris,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic ursane/oleanane/lupane,KP795925.1,TRINITY_DN8785_c0_g2_i1.p1,37.1
+CYP716A80,Barbarea vulgaris,C28 oxidation,a-amyrin/b-amyrin/lupeol,Pentacyclic ursane/oleanane/lupane,KP795926.1,TRINITY_DN8785_c0_g2_i1.p1,36.2
+CYP72A552,Barbarea vulgaris,C23 oxidation,oleanolic acid,Pentacyclic oleanane,MH252571.1,TRINITY_DN2589_c0_g1_i15.p1,53.6
+CYP716A180,Betula platyphylla,C28 oxidation,lupeol,Pentacyclic lupane,KJ452328.1,TRINITY_DN8785_c0_g2_i1.p1,37.6
+CYP51H16,Brachypodium distachyon,C1 hydroxylation,"7,19,28-trihydroxyisoarborinol",Pentacyclic triterpene,ON108679.1,TRINITY_DN3131_c0_g1_i2.p1,52.9
+CYP51H14,Brachypodium distachyon,C7 and C28 hydroxylation,19-hydroxy-isoarborinol,Pentacyclic triterpene,ON108677.1,TRINITY_DN3131_c0_g1_i2.p1,52.1
+CYP51H15,Brachypodium distachyon,C19 hydroxylation,isoarborinol,Pentacyclic triterpene,ON108678.1,TRINITY_DN3131_c0_g1_i2.p1,54.3
+CYP716Y1,Bupleurum falcatum,C16-a-hydroxylation,a-amyrin/b-amyrin,Pentacyclic ursane/oleanane,KC963423.1,TRINITY_DN8785_c0_g2_i1.p1,34.6
+CYP716AL1,Catharanthus roseus,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic ursane/oleanane/lupane,JN565975.1,TRINITY_DN8785_c0_g2_i1.p1,38
+CYP714E19,Centella asiatica,C23 oxidation,oleanolic acid/ursolic acid,Pentacyclic ursane/oleanane,KT004520.1,TRINITY_DN2354_c0_g1_i17.p1,48.3
+CYP716A86,Centella asiatica,C28 oxidation,b-amyrin,Pentacyclic oleanane,KU878848.1,TRINITY_DN8785_c0_g2_i1.p1,37.6
+CYP716A83,Centella asiatica,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic ursane/oleanane,KU878849.1,TRINITY_DN8785_c0_g2_i1.p1,37.9
+CYP716E41,Centella asiatica,C6-b-hydroxylation,oleanolic acid/ursolic acid/maslinic acid,Pentacyclic oleanane/ursane,KU878851.1,TRINITY_DN8785_c0_g2_i1.p1,34
+CYP716C11,Centella asiatica,C2-a-hydroxylation,oleanolic acid/ursolic acid/6b-hydroxy-oleanolic acid,Pentacyclic oleanane/ursane,KU878852.1,TRINITY_DN8785_c0_g2_i1.p1,31.7
+CYP716A78,Chenopodium quinoa,C28 oxidation,b-amyrin,Pentacyclic oleanane,KX343075.1,TRINITY_DN8785_c0_g2_i1.p1,37.8
+CYP716A79,Chenopodium quinoa,C28 oxidation,b-amyrin,Pentacyclic oleanane,KX343076.1,TRINITY_DN8785_c0_g2_i1.p1,37.8
+CYP93E5,Cicer arietinum,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,KF906536.1,TRINITY_DN145_c0_g3_i1.p1,42.8
+CYP749A63,Crataegus pinnatifida,C24 hydroxylation,oleanolic acid,Pentacyclic oleanane,MF596155.1,TRINITY_DN12114_c0_g1_i1.p1,40.4
+CYP716C49,Crataegus pinnatifida,C2-a-hydroxylation,oleanolic acid/ursolic acid/betulinic acid,Pentacyclic ursane/oleanane/lupane,MF120282.1,TRINITY_DN8785_c0_g2_i1.p1,31.3
+CYP81Q58,Cucumis sativus,C25 hydroxylation/double bond shift,19-hydroxy-curcubitadienol,Tetracyclic triterpenoid,KM655856.1,TRINITY_DN54254_c0_g1_i1.p1,52.7
+CYP90B71,Dioscorea zingiberensis,C22R hydroxylation,cholesterol,Steroid,MN829441.1,TRINITY_DN709_c2_g1_i2.p1,92.9
+CYP90G6,Dioscorea zingiberensis,C16 oxidation,22R-hydroxy-cholesterol,Steroid,MN829442.1,TRINITY_DN4982_c0_g3_i1.p1,91
+CYP716A244,Eleutherococcus senticosus,C28 oxidation,b-amyrin,Pentacyclic oleanane,KX354739.1,TRINITY_DN8785_c0_g2_i1.p1,39.4
+CYP93E1,Glycine max,C24 hydroxylation,b-amryin/sophoradiol,Pentacyclic oleanane,AB231332.1,TRINITY_DN145_c0_g3_i1.p1,43.4
+CYP72A69,Glycine max,C21 hydroxylation,soyasapogenol B,Pentacyclic oleanane,LC143440.1,TRINITY_DN2589_c0_g1_i1.p1,56.6
+CYP72A141,Glycine max,C29 hydroxylation,b-amyrin,Pentacyclic oleanane,MK534532.1,TRINITY_DN12114_c0_g1_i1.p1,51.9
+CYP93E6,Glycyrrhiza glabra,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,KF906537.1,TRINITY_DN145_c0_g3_i1.p1,42.8
+CYP88D6,Glycyrrhiza uralensis,C11 oxidation,b-amyrin,Pentacyclic oleanane,AB433179.1,TRINITY_DN4559_c0_g1_i11.p1,46.8
+CYP93E3,Glycyrrhiza uralensis,C24 hydroxylation,b-amryin,Pentacyclic oleanane,AB437320.1,TRINITY_DN145_c0_g3_i1.p1,43
+CYP72A154,Glycyrrhiza uralensis,C30 oxidation,b-amyrin/11-oxo-b-amyrin,Pentacyclic oleanane,AB558153.1,TRINITY_DN2589_c0_g1_i1.p1,56.6
+CYP716A179,Glycyrrhiza uralensis,C28 oxidation/ C22-a-hydroxylaton,a-amyrin/b-amyrin/betulin,Pentacyclic ursane/oleanane/lupane,LC157867.1,TRINITY_DN8785_c0_g2_i1.p1,38.6
+CYP70815v1,Iberis amara,C22 hydroxylation,16b-hydroxy-cucurbitadienol,Tetracyclic triterpenoid,MW514550.1,TRINITY_DN2607_c0_g2_i2.p2,32.6
+CYP70815v2,Iberis amara,C22 hydroxylation,16b-hydroxy-cucurbitadienol,Tetracyclic triterpenoid,MW514551.1,TRINITY_DN2607_c0_g2_i2.p2,32.8
+CYP708A16,Iberis amara,C16  hydroxylation,cucurbitadienol,Tetracyclic triterpenoid,MW514556.1,TRINITY_DN6792_c0_g1_i13.p1,32.3
+CYP716A210,Ilex asprella,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic oleanane/ursane,MK994507.1,TRINITY_DN8785_c0_g2_i1.p1,37.9
+IAO2,Ilex asprella,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic ursane/oleanane,OL604227.1,TRINITY_DN8785_c0_g2_i1.p1,38.6
+CYP93A220,Ilex asprella,C24 oxidation,b-amyrin,Pentacyclic oleanane,MZ508433.1,TRINITY_DN145_c0_g3_i1.p1,51.6
+CYP714E88,Ilex asprella,C23 oxidation,ursolic acid/oleanolic acid,Pentacyclic oleanane/ursane,MZ508437.1,TRINITY_DN2354_c0_g1_i17.p1,52.1
+CYP72A397,Kalopanax septemlobus,C23 oxidation,oleanolic acid,Pentacyclic oleanane,KT150517.1,TRINITY_DN12114_c0_g1_i1.p1,56.7
+CYP716A94,Kalopanax septemlobus,C28 oxidation,b-amrin,Pentacyclic oleanane,KT150521.1,TRINITY_DN8785_c0_g2_i1.p1,40.3
+CYP716A265,Lagerstroemia speciosa,C28 oxidation,a-amyrin/b-amyrin/lupeol,Pentacyclic ursane/oleanane/lupane,MG708187.1,TRINITY_DN8785_c0_g2_i1.p1,36.1
+CYP716A266,Lagerstroemia speciosa,C28 oxidation,a-amyrin/b-amyrin/lupeol,Pentacyclic ursane/oleanane/lupane,MG708188.1,TRINITY_DN8785_c0_g2_i1.p1,37.2
+CYP716C55,Lagerstroemia speciosa,C2-a-hydroxylation,ursolic acid/oleanane,Pentacyclic ursane/oleanane,MG708191.1,TRINITY_DN8785_c0_g2_i1.p1,33.8
+CYP93E7,Lens culinaris,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,KF906538.1,TRINITY_DN145_c0_g3_i1.p1,43.3
+CYP71D353,Lotus japonicus ,C20 hydroxylation/C28 oxidation ,dihydrolupeol/20-hydroxy-lupeol,Pentacyclic lupane,KF460438.1,TRINITY_DN47545_c0_g1_i1.p1,48.1
+CYP716A51,Lotus japonicus ,C28 oxidation,a-amyrin/b-amyrin/lupeol,Pentacyclic ursane/oleanane/lupane,AB706297.1,TRINITY_DN8785_c0_g2_i1.p1,37.5
+CYP72A697,Lotus japonicus ,C29 hydroxylation,b-amyrin,Pentacyclic oleanane,MK534539.1,TRINITY_DN2589_c0_g1_i1.p1,51.9
+CYP716A75,Maesa lanceolata,C28 oxidation,b-amyrin,Pentacyclic oleanane,KF318733.1,TRINITY_DN8785_c0_g2_i1.p1,37.5
+CYP87D16,Maesa lanceolata,C16a-hydroxylation,b-amyrin,Pentacyclic oleanane,KF318735.1,TRINITY_DN6792_c0_g1_i13.p1,30
+CYP716A175,Malus domestica,C28 oxidation,a-amyrin/b-amyrin/lupeol/germanicol,Pentacyclic ursane/oleanane/lupane,XM_008392874.3,TRINITY_DN8785_c0_g2_i1.p1,36.7
+CYP72A67,Medicago truncatula,C2-b-hydroxylation,oleanolic acid/hederagenin/gypsogenic acid/gypsogenin,Pentacyclic oleanane,DQ335780.1,TRINITY_DN2589_c0_g1_i1.p1,53.4
+CYP72A68,Medicago truncatula,C23 oxidation,oleanolic acid/hederagenin/gypsogenin,Pentacyclic oleanane,DQ335782.1,TRINITY_DN12114_c0_g1_i1.p1,52.3
+CYP93E2,Medicago truncatula,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,DQ335790.1,TRINITY_DN145_c0_g3_i1.p1,43.6
+CYP72A61,Medicago truncatula,C22 hydroxylation,24-hydroxy-b-amyrin,Pentacyclic oleanane,DQ335793.1,TRINITY_DN12114_c0_g1_i1.p1,49
+CYP716A12,Medicago truncatula,C28 oxidation,a-amyrin/b-amyrin/betulin,Pentacyclic ursane/oleanane/lupane,FN995113.1,TRINITY_DN8785_c0_g2_i1.p1,37.4
+CYP72A63,Medicago truncatula,C30 oxidation,b-amyrin,Pentacyclic oleanane,AB558146.1,TRINITY_DN2589_c0_g1_i1.p1,52.7
+CYP72A62v2,Medicago truncatula,C29 oxidation,b-amyrin,Pentacyclic oleanane,AB558147.1,TRINITY_DN2589_c0_g1_i1.p1,52.5
+CYP72A557,Medicago truncatula,C21 hydroxylation,b-amyrin,Pentacyclic oleanane,MK534544.1,TRINITY_DN2589_c0_g1_i1.p1,58.5
+CYP72A558,Medicago truncatula,C21 hydroxylation,b-amyrin,Pentacyclic oleanane,MK534545.1,TRINITY_DN2589_c0_g1_i1.p1,58.5
+CYP72A559,Medicago truncatula,C21 hydroxylation,b-amyrin,Pentacyclic oleanane,MK534546.1,TRINITY_DN12114_c0_g1_i1.p1,59.4
+CYP72A64v2,Medicago truncatula,C29 oxidation,b-amyrin,pentacyclic oleanane,MK534548.1,TRINITY_DN2589_c0_g1_i1.p1,51.9
+CYP72A68v2,Medicago truncatula,C23 oxidation,oleanolic acid/hederagenin/gypsogenin,Pentacyclic oleanane,XM_013608494.3,TRINITY_DN12114_c0_g1_i1.p1,52.3
+CYP72A61v2,Medicago truncatula,C22 hydroxylation,24-hydroxy-b-amyrin,Pentacyclic oleanane,XM_003605422.4,TRINITY_DN12114_c0_g1_i1.p1,49
+CYP72A65v2,Medicago truncatula,C21 hydroxylation,b-amyrin,Pentacyclic oleanane,XM_003628012.4,TRINITY_DN2589_c0_g1_i1.p1,53
+CYP71BQ5,Melia azedarach,C21 hydroxylation,dihydroniloticin,Tirucallane triterpenoid,MK803264.1,TRINITY_DN47545_c0_g1_i1.p1,49.8
+CYP71CD2,Melia azedarach,C23 hydroxylation and C24-C25 epoxidation,"tirucalla-7,24-dien-3b-ol",Tirucallane triterpenoid,MK803271.1,TRINITY_DN47545_c0_g1_i1.p1,44.5
+CYP81AQ19,Momordica charantia,C23-a-hydroxylation,cucurbitadienol,Tetracyclic triterpenoid,LC456843.1,TRINITY_DN54254_c0_g1_i1.p1,44.9
+CYP88L7,Momordica charantia,"C19 hydroxylation, C5 and C9 ether bridge",cucurbitadienol,Tetracyclic triterpenoid,LC456844.1,TRINITY_DN4559_c0_g1_i11.p1,40.7
+CYP88L8,Momordica charantia,C7-b-hydroxylation,cucurbitadienol,Tetracyclic triterpenoid,LC456845.1,TRINITY_DN4559_c0_g1_i11.p1,44.3
+CYP712K4,Monteverdia ilicifolia,C29 oxidation,friedelin,Pentacyclic triterpenoid,MK829814.1,TRINITY_DN145_c0_g3_i1.p1,41.2
+CYP716A252,Ocimum basilicum,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic oleanane/ursane,JQ958967.1,TRINITY_DN8785_c0_g2_i1.p1,39.2
+CYP716A253,Ocimum basilicum,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic oleanane/ursane,JQ958968.1,TRINITY_DN8785_c0_g2_i1.p1,39.1
+CYP724B1,Oryza sativa,C22 hydroxylation,campesterol/campestanol,Steroid,AB158759.1,TRINITY_DN2607_c0_g2_i2.p2,46.8
+CYP90B2,Oryza sativa,C22 hydroxylation,campesterol/campestanol,Steroid,AB206579.1,TRINITY_DN2607_c0_g2_i2.p2,74.8
+CYP716A47,Panax ginseng,C12 hydroxylation,dammarenediol-II,Tetracyclic triterpenoid,JN604536.1,TRINITY_DN8785_c0_g2_i1.p1,34.2
+CYP716A53v2,Panax ginseng,C6 hydroxylation,protopanaxadiol,Tetracyclic triterpenoid,JX036031.1,TRINITY_DN8785_c0_g2_i1.p1,33.5
+CYP716A52v2,Panax ginseng,C28 oxidation,b-amyrin,Pentacyclic oleanane,JX036032.1,TRINITY_DN8785_c0_g2_i1.p1,38.5
+CYP90B52,Paris polyphylla,C22 hydroxylation,cholesterol,Steroid,MK636701.1,TRINITY_DN2607_c0_g2_i2.p2,76.7
+CYP90G4,Paris polyphylla,C16 oxidation,22R-hydroxy-cholesterol,Steroid,MK636702.1,TRINITY_DN4982_c0_g3_i1.p1,81.8
+CYP94D108,Paris polyphylla,C27 hydroxylation/spiroketalisation,16S-hydroxy-22-oxocholesterol,Steroid,MK636703.1,TRINITY_DN46895_c0_g1_i1.p1,67
+CYP94D109,Paris polyphylla,C27 hydroxylation/spiroketalisation,16S-hydroxy-22-oxocholesterol,Steroid,MK636704.1,TRINITY_DN46895_c0_g1_i1.p1,54.7
+CYP72A616,Paris polyphylla,C27 hydroxylation/spiroketalisation,16S-hydroxy-22-oxocholesterol,Steroid,MK636705.1,TRINITY_DN2589_c0_g1_i1.p1,65.1
+CYP90B27,Paris polyphylla,C22 hydroxylation,cholesterol,Steroid,KX904822.1,TRINITY_DN709_c2_g1_i2.p1,83.3
+CYP93E9,Phaseolus vulgaris,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,KF906540.1,TRINITY_DN145_c0_g3_i1.p1,42.4
+CYP72A302,Phaseolus vulgaris,C29 hydroxylation,b-amyrin,Pentacyclic oleanane,MK534537.1,TRINITY_DN2589_c0_g1_i1.p1,53.3
+CYP93E8,Pisum sativum,C24 hydroxylation,b-amyrin,Pentacyclic oleanane,KF906539.1,TRINITY_DN145_c0_g3_i1.p1,43.1
+CYP716A140,Platycodon grandiflorus,C28 oxidation,"b-amyrin/16b-hydroxy-b-amyrin/12,13a-epoxy-b-amyrin",Pentacyclic oleanane/ursane,KU878853.1,TRINITY_DN8785_c0_g2_i1.p1,36.4
+CYP716A141,Platycodon grandiflorus,C28 oxidation/C16b-hydroxylation,"b-amyrin/16b-hydroxy-b-amyrin/12,13a-epoxy-b-amyrin",Pentacyclic oleanane,KU878855.1,TRINITY_DN8785_c0_g2_i1.p1,36.2
+CYP716S5,Platycodon grandiflorus,C12-C13a-epoxidation,b-amyrin/oleanolic acid,Pentacyclic oleanane,KU878856.1,TRINITY_DN8785_c0_g2_i1.p1,34.8
+CYP716A140v2,Platycodon grandiflorus,C28 oxidation,b-amyrin,Pentacyclic oleanane,LC209199.1,TRINITY_DN8785_c0_g2_i1.p1,36.8
+CYP716A155,Salvia rosmarinus,C28 oxidation,lupeol,Pentacyclic lupane,MK592859.1,TRINITY_DN8785_c0_g2_i1.p1,38.9
+CYP87D18,Siraitia grosvenorii ,C11 oxidation,"cucurbitadienol/11a-hydroxycucurbitadienol/24,25-dihydroxycucurbitadienol",Tetracyclic triterpenoid,HQ128570.1,TRINITY_DN6792_c0_g1_i13.p1,34.1
+CYP85A1,Solanum lycopersicum,C6 oxidation,"6-deoxoteaster-
+one / 3-dehydro-
+6-deoxoteaster-
+one / 6-deoxo-
+typhasterol /
+6-deoxo-
+castasterone",Steroid,U54770.1,TRINITY_DN6792_c0_g1_i13.p1,71.5
+CYP85A3,Solanum lycopersicum,C6 oxidation,6-deoxocatasterone/catasterone,Steroid,AB190445.1,TRINITY_DN6792_c0_g1_i13.p1,66.5
+CYP734A7,Solanum lycopersicum,C26 hydroxylation,catasterone/28-nor-catasterone/brassinolide,Steroid,AB223041.1,TRINITY_DN12801_c0_g2_i4.p1,59.9
+CYP90B3,Solanum lycopersicum,C22 hydroxylation,"campesterol /
+24R-ergost-4-
+en-3-one /
+24R-5α-ergos-
+tan-3-one /
+campestanol",Steroid,NM_001279330.2,TRINITY_DN2607_c0_g2_i2.p2,66.7
+CYP710A11,Solanum lycopersicum,C22 desaturation,b-sitosterol,Steroid,NM_001247585.2,TRINITY_DN44975_c0_g1_i1.p1,65.6
+CYP716E26,Solanum lycopersicum ,C6b-hydroxylation,a-amyrin/b-amyrin,Pentacyclic oleanane/ursane,XM_004241773.4,TRINITY_DN8785_c0_g2_i1.p1,37.1
+CYP716A46,Solanum lycopersicum ,C28 oxidation,a-amyrin/b-amyrin,Pentacyclic oleanane/ursane,XM_004243858.4,TRINITY_DN8785_c0_g2_i1.p1,37.6
+CYP72A699,Trifolium pratense,C29 oxidation,b-amyrin/29-hydroxy-b-amyrin,Pentacyclic oleanane,MK534549.1,TRINITY_DN12114_c0_g1_i1.p1,50.4
+CYP90B51,Trigonella foenum-graecum,C22S hydroxylation/ C22R hydroxylation,cholesterol,Steroid,MK636706.1,TRINITY_DN2607_c0_g2_i2.p2,69.8
+CYP90B50,Trigonella foenum-graecum,"C22R, C16 dihydroxylation",cholesterol,Steroid,MK636707.1,TRINITY_DN2607_c0_g2_i2.p2,59.6
+CYP72A613,Trigonella foenum-graecum,C27 hydroxylation/spiroketalisation,16S-hydroxy-22-oxocholesterol,Steroid,MK636708.1,TRINITY_DN2589_c0_g1_i1.p1,51.7
+CYP82J17,Trigonella foenum-graecum,C27 hydroxylation/spiroketalisation,16S-hydroxy-22-oxocholesterol,Steroid,MK636709.1,TRINITY_DN9493_c0_g1_i1.p1,42.1
+CYP712K1,Tripterygium wilfordii,C29 oxidation,friedelin,Pentacyclic triterpenoid,MN621243.1,TRINITY_DN145_c0_g3_i1.p1,39.8
+CYP712K2,Tripterygium wilfordii,C29 oxidation,friedelin,Pentacyclic triterpenoid,MN621244.1,TRINITY_DN145_c0_g3_i1.p1,41.6
+CYP712K3,Tripterygium wilfordii,C29 oxidation,friedelin,Pentacyclic triterpenoid,MN621245.1,TRINITY_DN145_c0_g3_i1.p1,41.8
+CYP51H35,Triticum aestivum,C19 hydroxylation,isoarborinol,Pentacyclic triterpene,ON108669.1,TRINITY_DN3131_c0_g1_i2.p1,51.6
+CYP51H37,Triticum aestivum ,C25 hydroxylation and C2 oxidation,19-hydroxy-isoarborinol,Pentacyclic triterpene,ON108670.1,TRINITY_DN3131_c0_g1_i2.p1,47.6
+CYP90B27v1,Veratrum californicum,C22 hydroxylation,cholesterol/26-hydroxycholesterol/7b-hydroxycholesterol,Steroid,KJ869252.1,TRINITY_DN709_c2_g1_i2.p1,79.1
+CYP94N1v2,Veratrum californicum,C26 hydroxylation,22R-hydroxycholesterol,Steroid,KJ869255.1,TRINITY_DN4130_c0_g1_i12.p1,54.2
+CYP90G1v1,Veratrum californicum,C22 hydroxylation,"22R-hydroxy
+cholesterol /
+22,26-di-
+hydroxycholes-
+terol /
+22-hydroxy-26-
+aminocholes-
+terol",Steroid,KJ869258.1,TRINITY_DN4982_c0_g3_i1.p1,67.6
+CYP90G1v3,Veratrum californicum,C22 hydroxylation,"22R-hydroxy
+cholesterol /
+22,26-di-
+hydroxycholes-
+terol /
+22-hydroxy-26-
+aminocholes-
+terol",Steroid,KJ869260.1,TRINITY_DN4982_c0_g3_i1.p1,68.2
+CYP90G1v2,Veratrum californicum,C22 hydroxylation,"22R-hydroxy
+cholesterol /
+22,26-di-
+hydroxycholes-
+terol /
+22-hydroxy-26-
+aminocholes-
+terol",Steroid,KJ869261.1,TRINITY_DN4982_c0_g3_i1.p1,68
+CYP72A694,Vigna angularis,C29 oxidation,b-amyrin/29-hydroxy-b-amyrin,Pentacyclic oleanane,MK534538.1,TRINITY_DN2589_c0_g1_i1.p1,51.9
+CYP716A15,Vitis vinifera,C28 oxidation,a-amyrin/b-amurin/betulin,Pentacyclic ursane/oleanane/lupane,AB619802.1,TRINITY_DN8785_c0_g2_i1.p1,37.7
+CYP716A17,Vitis vinifera,C28 oxidation,b-amyrin,Pentacyclic oleanane,AB619803.1,TRINITY_DN8785_c0_g2_i1.p1,37.9
