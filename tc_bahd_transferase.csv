@@ -1,0 +1,58 @@
+﻿Name,Species,Reaction,Substrate,Scaffold,Accession,Family
+LsTAT1,Lactuca sativa,C2 acetylation,"ψ-Taraxasterol, taraxasterol, β-amyrin and α-amyrin",Triterpenoid,XP_023735288.1,MBOAT
+AmAT19,Astralagus membranaceus,C6 acetylation,Cycloastragenol,"Tetracyclic triterpenes, steroids.",QYZ87525.1,BAHD
+AT3G50270,Arabidopsis thaliana,unknown,unknown,unknown,NP_190596.1,BAHD
+At5g38130,Arabidopsis thaliana,unknown,unknown,unknown,NP_198629.2,BAHD
+At3g50300,Arabidopsis thaliana,unknown,unknown,unknown,NP_190599.2,BAHD
+OsBAHD24,Oryza sativa,unknown,unknown,unknown,LOC_Os04g30570.1,BAHD
+OsBAHD53,Oryza sativa,unknown,unknown,unknown,LOC_Os08g01980.1,BAHD
+OsBAHD55,Oryza sativa,unknown,unknown,unknown,LOC_Os08g02030,BAHD
+OsBAHD54,Oryza sativa,unknown,unknown,unknown,LOC_Os08g02020.1,BAHD
+OsBAHD52,Oryza sativa,unknown,unknown,unknown,LOC_Os08g01960.1,BAHD
+OsBAHD51,Oryza sativa,unknown,unknown,unknown,LOC_Os08g01950.1,BAHD
+OsBAHD09,Oryza sativa,unknown,unknown,unknown,LOC_Os01g63480.1,BAHD
+OsBAHD37,Oryza sativa,unknown,unknown,unknown,LOC_Os05g37660.1,BAHD
+AT5G01210,Arabidopsis thaliana,unknown,unknown,unknown,NP_195741.1,BAHD
+At2g39980,Arabidopsis thaliana,unknown,unknown,unknown,NP_181527.1,BAHD
+LOC_Os07g04970,Oryza sativa,unknown,unknown,unknown,LOC_Os07g04970,BAHD
+LOC_Os11g13970,Oryza sativa,unknown,unknown,unknown,LOC_Os11g13970,BAHD
+LOC_Os06g01350.1,Oryza sativa,unknown,unknown,unknown,LOC_Os06g01350.1,BAHD
+At5g42830,Arabidopsis thaliana,unknown,unknown,unknown,At5g42830,BAHD
+At5g07870,Arabidopsis thaliana,unknown,unknown,unknown,At5g07870,BAHD
+At5g07860,Arabidopsis thaliana,unknown,unknown,unknown,At5g07860,BAHD
+At1g03940,Arabidopsis thaliana,unknown,unknown,unknown,At1g03940,BAHD
+At1g03495,Arabidopsis thaliana,unknown,unknown,unknown,At1g03495,BAHD
+AmAT8-17,Astralagus membranaceus,C2 acetylation,Cyclocephaloside II,Triterpene,WMS61014.1,BAHD
+At3g29590,Arabidopsis thaliana,unknown,unknown,unknown,At3g29590,BAHD
+At5g39090,Arabidopsis thaliana,unknown,unknown,unknown,At5g39090,BAHD
+At5g39080,Arabidopsis thaliana,unknown,unknown,unknown,At5g39080,BAHD
+At5g39050,Arabidopsis thaliana,unknown,unknown,unknown,At5g39050,BAHD
+At3g29670,Arabidopsis thaliana,unknown,unknown,unknown,At3g29670,BAHD
+At3g29635,Arabidopsis thaliana,unknown,unknown,unknown,At3g29635,BAHD
+At5g61160,Arabidopsis thaliana,unknown,unknown,unknown,At5g61160,BAHD
+At3g29680,Arabidopsis thaliana,unknown,unknown,unknown,At3g29680,BAHD
+SOAP10,Spinacia oleracea,Acetylation of glucuronic acid moiety,Yossoside IV,Triterpene saponin,KNA12459.1,BAHD
+SoAT4,Spinacia oleracea,unknown,unknown,unknown,KNA04584.1,BAHD
+SoAT3,Spinacia oleracea,unknown,unknown,unknown,KNA09900.1,BAHD
+SoAT2,Spinacia oleracea,unknown,unknown,unknown,KNA12681.1,BAHD
+SoAT1,Spinacia oleracea,unknown,unknown,unknown,XP_021847518.1,BAHD
+AmAT7-3,Astragalus membranaceus,Multisite acetylation of xylose moiety,Astragaloside IV,Triterpene saponin,WMQ79387.1,BAHD
+At5g23970,Arabidopsis thaliana,unknown,unknown,unknown,At5g23970,BAHD
+At5g47980,Arabidopsis thaliana,C22 and C2 acetylation of thlianin precursors,Thalianin precursors ,Triterpene,At5g47980,BAHD
+At4g15400,Arabidopsis thaliana,unknown,unknown,unknown,At4g15400,BAHD
+At1g24420,Arabidopsis thaliana,unknown,unknown,unknown,At1g24420,BAHD
+THAA2,Arabidopsis thaliana,C2 and C22 acetylation of 7b-hydroxy-16-keto-thalian-3b-15-yl diacetate precursor; C2 acetylation of arabiadin precursors,Thalianin precursor; arabidin precursor,Triterpene,At5g47950,BAHD
+At4g15390,Arabidopsis thaliana,unknown,unknown,unknown,At4g15390,BAHD
+At3g30280,Arabidopsis thaliana,unknown,unknown,unknown,At3g30280,BAHD
+At1g24430,Arabidopsis thaliana,unknown,unknown,unknown,At1g24430,BAHD
+At3g26040,Arabidopsis thaliana,unknown,unknown,unknown,At3g26040,BAHD
+At4g31910,Arabidopsis thaliana,unknown,unknown,unknown,At4g31910,BAHD
+At4g29250,Arabidopsis thaliana,unknown,unknown,unknown,At4g29250,BAHD
+At4g24510,Arabidopsis thaliana,unknown,unknown,unknown,At4g24510,BAHD
+At3g23840,Arabidopsis thaliana,unknown,unknown,unknown,At3g23840,BAHD
+BsAT1,Boswellia serrata,C2 acetylation,Boswellic acid,Triterpene,QXN66176.1,BAHD
+CsL21AT,Citrus sinensis,C21 O-acetylation,Apo-melianol,Triterpene,WCJ12486.1,BAHD
+CsL1AT,Citrus sinensis,C1 O-acetylation,1-hydroxyl luvungin A,Triterpene,WCJ12487.1,BAHD
+CsL7AT,Citrus sinensis,C7 O-acetylation,"1,21-diacetoxyl luvungin A",Triterpene,WCJ12488.1,BAHD
+MaL21AT,Melia azedarach,C21 O-acetylation,Apo-melianol,Triterpene,WBW48722.1,BAHD
+MaL7AT,Melia azedarach,C7 O-acetylation,epi-neemfruitin B,Triterpene,WBW48726.1,BAHD
